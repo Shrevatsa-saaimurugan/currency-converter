@@ -24,6 +24,7 @@ Features:
 Usage:
 
 Run the script.
+
 ->Enter the amount you want to convert.
 
 ->Select the currency type you want to convert from (USD, GBP, SGD).
